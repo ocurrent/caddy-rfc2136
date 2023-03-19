@@ -1,4 +1,4 @@
-# Caddy with RFC2136 Support
+# Caddy with RFC2136 Support
 
 This build of Caddy includes RFC2136 support.  This allows Caddy to
 create the DNS record necessary to prove domain ownership for a DNS-01
